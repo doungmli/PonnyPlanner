@@ -14,9 +14,9 @@ Cette application est conçue pour simplifier et automatiser la gestion quotidie
 - **Gestion des clients** : Suivez les informations de vos clients et gérez leurs rendez-vous.
 - **Gestion des factures** : Automatisez la création et l'envoi des factures avec des calculs de montants totaux.
 - **Gestion groupes** : 
-1)Admin ( accès à toute l'application)
-2) Staff ( Membres du secrétaria -> accès à toutes les fonctionnalité en lecture/ecriture)
-3) employee ( accès limité à l'application )
+-**Admin** ( accès à toute l'application)
+-**Staff** ( Membres du secrétaria -> accès à toutes les fonctionnalité en lecture/ecriture)
+-**employee** ( accès limité à l'application )
 
 ### Technologies Utilisées
 
