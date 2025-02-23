@@ -1,6 +1,6 @@
 ## À propos de mon application
 
-Cette application est conçue pour simplifier et automatiser la gestion quotidienne des rendez-vous, des factures, des clients, et plus encore. Développée avec le framework Laravel, elle utilise une syntaxe élégante et expressive, facilitant ainsi le développement et la maintenance.
+Cette application est conçue pour simplifier et automatiser la gestion quotidienne des rendez-vous, des factures, des clients, et plus encore. Développée avec le framework Laravel.
 ### Instruction
 1) Configuration de fichier .env afin de correspondre à votre environnement de développement, n'oubliez pas de configurer le mailer afin d'avoir accès aux events.
 2) php artisan migrate ( initialisation de la db)
